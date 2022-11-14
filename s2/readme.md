@@ -13,5 +13,4 @@ Visualizaciones hechas:
 <a href="https://danielacanette.github.io/infovis/s2/vega-lite.html">Vega-lite</a> <br>
 
 
-Zoologico de visualizaciones:
-[Zoo](https://danielacanette.github.io/infovis/s2/zoo.txt)
+
