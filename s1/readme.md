@@ -2,7 +2,7 @@ Semana 1
 
 Visualizaciones hechas:
 
-Tableau
-Bump raw graphs
-Hola mundo
-Staked area charts
+Tableau <br>
+Bump raw graphs <br>
+Hola mundo <br>
+Staked area charts <br>
