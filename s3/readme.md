@@ -10,4 +10,5 @@ Visualizaciones hechas:
 
 Visualizaciones hechas:
 
-1. [Tableau](https://danielacanette.github.io/infovis/s3/tableaucovid.html)
+<a href="https://danielacanette.github.io/infovis/s3/tableaucovid.html"> Tableau </a> <br>
+
